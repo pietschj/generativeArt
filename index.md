@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: generative Art
+tagline: using Processing
+description: Elective 2019
 ---
 
 # Generative Art
@@ -26,7 +26,7 @@ Some graphic primitives are drawn by using these commands:
 
 - for example:
 
-  ```rect(100,100,50,50);```
+```rect(100,100,50,50);```
 
 ``` rectMode(CENTER, CORNER, CORNERS)```
 
