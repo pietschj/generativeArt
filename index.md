@@ -22,13 +22,13 @@ Some graphic primitives are drawn by using these commands:
 
 #### Rect
 
-`rect(x,y,w,h);`
+```rect(x,y,w,h);``
 
 - for example:
 
-  `rect(100,100,50,50);`
+  ```rect(100,100,50,50);```
 
-` rectMode(CENTER, CORNER, CORNERS)`
+``` rectMode(CENTER, CORNER, CORNERS)```
 
 - changes the way rectangles are created. 
 
@@ -36,7 +36,7 @@ Some graphic primitives are drawn by using these commands:
 
   #### Ellipse
 
-  `ellipse(x,y, w, h);`
+  ```ellipse(x,y, w, h);```
 
 - for example:
 
